@@ -1,0 +1,99 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.2 2021.04, Apr 14 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/.engr-ece/vmr846/CME433/lit_review/approx_log_mult_p2
+T_opt
+!s110 1702024190
+VYNiM7KczT<Uza:1f=>Yj10
+04 17 4 work microprocessor_tb fast 0
+=1-b07b25242c75-6572d3fe-5beae-1c88f
+!s124 OEM10U3 
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L altera_mf_ver -L cycloneive_ver +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.2;73
+vhard_block
+Z2 !s110 1702024185
+!i10b 1
+!s100 ;6ekkA2fkAKV[Mi9<ObeQ1
+IIK@0W2NMN`hfEE1g4zaGD2
+Z3 d/home/.engr-ece/vmr846/CME433/vmr846_cme433_lab5/multi_cache/simulation/modelsim
+Z4 w1702022927
+Z5 8/home/.engr-ece/vmr846/CME433/vmr846_cme433_lab5/multi_cache/simulation/modelsim/microprocessor.vo
+Z6 F/home/.engr-ece/vmr846/CME433/vmr846_cme433_lab5/multi_cache/simulation/modelsim/microprocessor.vo
+!i122 30
+L0 12457 34
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2021.2;73
+r1
+!s85 0
+31
+Z9 !s108 1702024185.000000
+Z10 !s107 /home/.engr-ece/vmr846/CME433/vmr846_cme433_lab5/multi_cache/simulation/modelsim/microprocessor.vo|
+Z11 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/.engr-ece/vmr846/CME433/vmr846_cme433_lab5/multi_cache/simulation/modelsim/microprocessor.vo|
+!i113 0
+Z12 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vmicroprocessor
+R2
+!i10b 1
+!s100 ;iaf5NPZ@]9cJgHU?;EeI0
+Ia0S^C4fM1:^cQ=0f]zH8N1
+R3
+R4
+R5
+R6
+!i122 30
+L0 32 12424
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R1
+vmicroprocessor_tb
+R2
+!i10b 1
+!s100 Bkil5:7J]J0Y4[79U_I1G3
+Io]K:SgCm<1ILSl831UzZF0
+R3
+w1702018253
+8/home/.engr-ece/vmr846/CME433/vmr846_cme433_lab5/multi_cache/simulation/modelsim/testbench.v
+F/home/.engr-ece/vmr846/CME433/vmr846_cme433_lab5/multi_cache/simulation/modelsim/testbench.v
+!i122 31
+L0 3 63
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 /home/.engr-ece/vmr846/CME433/vmr846_cme433_lab5/multi_cache/simulation/modelsim/testbench.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/.engr-ece/vmr846/CME433/vmr846_cme433_lab5/multi_cache/simulation/modelsim/testbench.v|
+!i113 0
+R12
+R1
